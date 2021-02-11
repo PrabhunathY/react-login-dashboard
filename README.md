@@ -19,7 +19,3 @@ Login Form
 
 ![Signature](https://github.com/PrabhunathY/react-list-sample/blob/master/docs/react-login-ui.png "React Login UI Form")
 
-Search by text
-
-![Signature](https://github.com/PrabhunathY/react-list-sample/blob/master/docs/search-text.png "React Login UI Form")
-
