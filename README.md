@@ -17,5 +17,5 @@ Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
 
 Login Form
 
-![Signature](https://github.com/PrabhunathY/react-list-sample/blob/master/docs/login.png "React Login UI Form")
+![Signature](https://github.com/PrabhunathY/react-login-dashboard/blob/main/login.png "React Login UI Form")
 
